@@ -22,6 +22,6 @@ Below are key screenshots showcasing Suite's core functionalities:
 - **Tools**: Vite, ESLint, Prettier
 
 ## Contributors
-- [Your Name](https://github.com/your-username) - Full-stack development
+- [Ramesh Edirisinghe](https://github.com/RameshEdirisinghe) - Full-stack development
 - [Contributor Name](https://github.com/contributor-username) - [Role/Contribution]
 - [Contributor Name](https://github.com/contributor-username) - [Role/Contribution]
