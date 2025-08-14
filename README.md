@@ -3,9 +3,11 @@
 ## Screenshots
 Below are key screenshots showcasing Suite's core functionalities:
 
-![Dashboard](screenshots/dashboard.png?raw=true "Student Dashboard")
-![IELTS Speaking Test](screenshots/speaking_test.png?raw=true "Speaking Test Interface")
-![Feed Section](screenshots/feed_section.png?raw=true "Community Feed")
+![Dashboard](screenshots/units.jpeg)
+
+![IELTS Exam center](screenshots/Exam.jpeg)
+![Feed Section](screenshots/quiz.jpeg)
+![Feed Section](screenshots/studyfeed.jpeg)
 
 ## Special Features
 - **IELTS Exam Platform**: Interactive modules for speaking, reading, and writing tests with real-time scoring.
@@ -24,4 +26,6 @@ Below are key screenshots showcasing Suite's core functionalities:
 ## Contributors
 - [Ramesh Edirisinghe](https://github.com/RameshEdirisinghe) - Full-stack development
 - [Sahan Chamara](https://github.com/SahanChamara) - Full-stack development
-- [Contributor Name](https://github.com/contributor-username) - [Role/Contribution]
+- [Harsha Madushan](https://github.com/Harsha24798) - Full-stack development
+- [Nipun Bassnayak](https://github.com/NipunBasnayake) - Backend Development
+- [Rusiru Pramod](https://github.com/RusiruPramod) - Frontend Development
