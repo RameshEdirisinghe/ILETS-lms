@@ -23,5 +23,5 @@ Below are key screenshots showcasing Suite's core functionalities:
 
 ## Contributors
 - [Ramesh Edirisinghe](https://github.com/RameshEdirisinghe) - Full-stack development
-- [Contributor Name](https://github.com/contributor-username) - [Role/Contribution]
+- [Sahan Chamara](https://github.com/SahanChamara) - Full-stack development
 - [Contributor Name](https://github.com/contributor-username) - [Role/Contribution]
